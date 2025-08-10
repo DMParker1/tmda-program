@@ -68,10 +68,12 @@ I worked as part of the Mahidol–Oxford Tropical Medicine Research Unit (MORU) 
   Tun STT, Parker DM, Aguas R, et al. *Malaria Journal*. 2021;20:189.  
   [https://doi.org/10.1186/s12936-021-03726-x](https://doi.org/10.1186/s12936-021-03726-x)
 
-- **Transmission model with shiny app:**  
+- **Transmission model with Shiny app:**  
   **Towards malaria elimination in Savannakhet, Lao PDR: Mathematical modelling driven strategy design.**  
   Tun STT, von Seidlein L, Pongvongsa T, et al. *Malaria Journal*. 2017;16:483.  
-  [https://doi.org/10.1186/s12936-017-2130-3](https://doi.org/10.1186/s12936-017-2130-3)
+  [https://doi.org/10.1186/s12936-017-2130-3](https://doi.org/10.1186/s12936-017-2130-3)  
+  *Interactive tool:* [Shiny app](https://moru.shinyapps.io/savannakhet/) — hosted by MORU; availability may change over time.
+
 
 ---
 
