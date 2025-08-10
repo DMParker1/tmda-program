@@ -16,13 +16,6 @@ I worked as part of the Mahidol–Oxford Tropical Medicine Research Unit (MORU) 
 
 ---
 
-## Connections
-- **Precursor:** [early-dx-tx-borderlands](https://github.com/DMParker1/early-dx-tx-borderlands) — EDT systems in Karen State, Myanmar.
-- **Sibling repo:** [METF-mapping](https://github.com/DMParker1/METF-mapping) — mapping and CE groundwork for METF.
-- **Downstream:** Modeling work on connectivity and intervention limits.
-
----
-
 ## Selected outputs
 
 ### Trial & observational studies
