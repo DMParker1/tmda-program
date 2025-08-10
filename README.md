@@ -27,7 +27,7 @@ I worked as part of the Mahidol–Oxford Tropical Medicine Research Unit (MORU) 
 
 ### Trial & observational studies
 - **Overview of multi-country tMDA program:**  
-  von Seidlein L, Dondorp A, *et al.* (2019) *PLOS Medicine* — [10.1371/journal.pmed.1002745](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002745)
+  **The impact of targeted malaria elimination with mass drug administrations on falciparum malaria in Southeast Asia: A cluster randomised trial** von Seidlein L, Peto TJ, Landier J, Nguyen TN, Tripura R, et al. (2019) The impact of targeted malaria elimination with mass drug administrations on falciparum malaria in Southeast Asia: A cluster randomised trial. PLOS Medicine 16(2): e1002745. [https://doi.org/10.1371/journal.pmed.1002745](https://doi.org/10.1371/journal.pmed.1002745)
 
 - **Myanmar (Eastern Karen State):**  
   Landier J, Parker DM, *et al.* (2017) *Wellcome Open Research* — [10.12688/wellcomeopenres.12129.1](https://wellcomeopenresearch.org/articles/2-81/v1)  
