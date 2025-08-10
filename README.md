@@ -89,7 +89,7 @@ See `CITATION.cff` for citation details.
 
 ## Notes on Data & Ethics
 - Any requests for data from these projects should be directed to [Mahidol–Oxford Tropical Medicine Research Unit (MORU)](https://www.tropmedres.ac/).  
-- No sensitive geodata are included in this repository.  
+- No sensitive data are included in this repository.  
 
 ---
 
