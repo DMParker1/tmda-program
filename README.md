@@ -79,10 +79,21 @@ I worked as part of the Mahidol–Oxford Tropical Medicine Research Unit (MORU) 
 
 ### Commentary & debate
 - **Response to Cochrane review limitations on MDA & vivax:**
-  There was a Cochrane review paper that, using mostly our papers, [suggested that MDA for vivax malaria would not work]. (https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008846.pub3/full)
-Since we did tMDA for falciparum malaria, it doesn't make sense to use our results as evidence against tMDA working for vivax malaria. tMDA for vivax would require using some kind of anti-hypnozoite. Our response [here:](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008846.pub3/detailed-comment/en?messageId=326098774)
+  There was a Cochrane review paper that, using mostly our papers, [suggested that MDA for vivax malaria would not work](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008846.pub3/full)
+
+Since we did tMDA for falciparum malaria, it doesn't make sense to use our results as evidence against tMDA working for vivax malaria. tMDA for vivax would require using some kind of anti-hypnozoite. Our response [here](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008846.pub3/detailed-comment/en?messageId=326098774)
 
 ---
+
+## Related Repositories
+
+- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping and community engagement groundwork for METF.
+- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.
+- [early-dx-tx-borderlands](https://github.com/DMParker1/early-dx-tx-borderlands) — Early access to malaria diagnosis and treatment in borderland settings.
+- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.
+- [earth-observation-labs](https://github.com/DMParker1/earth-observation-labs) — Remote sensing and Earth observation methods applied to public health.
+---
+
 ## License & Citation
 Text and figures © Daniel M. Parker unless otherwise stated. Licensed under CC BY 4.0.  
 See `CITATION.cff` for citation details.
