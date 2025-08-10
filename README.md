@@ -66,7 +66,7 @@ Since we did tMDA for falciparum malaria, it doesn't make sense to use our resul
 ---
 
 ## Notes on data & ethics
-- Any requests for data from these projects should be directed to MORU [the Mahidol Oxford Tropical Medicine Research Unit](https://www.tropmedres.ac/)
+- Any requests for data from these projects should be directed to MORU [(Mahidol Oxford Tropical Medicine Research Unit)](https://www.tropmedres.ac/)
 ---
 
 
