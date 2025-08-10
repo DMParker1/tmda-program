@@ -9,7 +9,7 @@ I worked as part of the Mahidol–Oxford Tropical Medicine Research Unit (MORU) 
 ---
 
 ## Why this matters
-- **Challenge:** Traditional mass drug administration for malaria was often avoided after historical use (e.g., adding antimalarials to table salt) likely contributed to the spread of drug resistance.
+- **Challenge:** Traditional mass drug administration for malaria was often avoided after historical use. For example, adding antimalarials to table salt may have contributed to the emergence and/or spread of drug resistant parasites. Article briefly discussing this, and including an audio interview [here](https://www.nejm.org/doi/full/10.1056/NEJMp1403340)
 - **Hypothesis:** In low-to-moderate transmission settings with ready access to early diagnosis and treatment (EDT), tMDA could rapidly reduce parasite reservoirs, including among asymptomatic carriers who would otherwise remain untreated.
 - **Key insight:** Asymptomatic *P. falciparum* infections can be common even in so-called low transmission areas — especially in certain high-risk communities — making targeted interventions valuable.
 - **Results:** tMDA can be safe and effective when done with strong community engagement, good diagnostics, and a supportive treatment network, but effects may be temporary if surrounded by high-transmission areas.
